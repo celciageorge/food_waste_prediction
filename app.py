@@ -70,7 +70,7 @@ else:
     st.sidebar.write("No recent activity.")
 
 # 4. Main UI Header
-st.title("🥗 Food Waste Prediction and Recipe Recommendation System")
+st.title("🥗 Food Waste Risk Prediction and Recipe Recommendation System")
 st.markdown("---")
 
 # 5. User Input Form
